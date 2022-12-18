@@ -12,7 +12,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart'; // new
 
 import 'firebase_options.dart'; // new
-import 'src/authentication.dart'; // new
+import 'src/authentication.dart';
 import 'src/widgets.dart';
 
 void main() {
